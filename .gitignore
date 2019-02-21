@@ -1,0 +1,6 @@
+target/
+.serverless/serverless-state.json
+serverless.yaml
+.serverless/cloudformation-template-create-stack.json
+.serverless/cloudformation-template-update-stack.json
+*.iml
